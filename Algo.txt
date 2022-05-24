@@ -1,16 +1,22 @@
 Decide which business to order from
-Decide what you want to order
-Search for the phone number of the desired business
-Call the phone number of the business
-Tell the worker your order
-If necessary, tell the worker of your desired sides
+Decide what you want to order.
+Search for the phone number of the desired business.
+Call the phone number of the business.
+
+Tell the worker your order.
+If necessary, tell the worker of your desired sides.
+Give the worker your card information.
+Give the worker your desired address.
+Say "thank you."
+Hang up.
 -
-Give the worker your card information
-Give the worker your desired address
-Say thank you
-Hang up
-Wait for pizza to be delivered
-Tip the delivery person for their service
-Say thank you again
+-
+-
+Wait with anticipation for pizza to be delivered...
+Hear the doorbell ring, become very excited!
+Tip the delivery person for their service.
+Say thank you again!
 Enjoy your food :)
-Throw garbage away when finished eating
+Throw garbage away when finished eating.
+Clean up area that you ate at.
+Mindlessly scroll on social media for 2 hours while you digest.
