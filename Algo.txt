@@ -12,4 +12,5 @@ Hang up
 Wait for pizza to be delivered
 Tip the delivery person for their service
 Say thank you again
-Enjoy your food :)Throw garbage away when finished eating
+Enjoy your food :)
+Throw garbage away when finished eating
