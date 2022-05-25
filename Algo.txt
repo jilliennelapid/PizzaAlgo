@@ -4,7 +4,7 @@ Search for the phone number of the desired business.
 Call the phone number of the business.
 
 Tell the worker your order.
-If necessary, tell the worker of your desired sides.
+    If necessary, tell the worker of your desired sides.
 Give the worker your card information.
 Give the worker your desired address.
 Say "thank you."
@@ -18,8 +18,12 @@ Open the door, acquire your order.
 Tip the delivery person for their service.
 Say "thank you" again!
 Enjoy your food :)
+-
+-
+-
 Throw garbage away when finished eating.
 Clean up area that you ate at.
 Mindlessly scroll on social media for 2 hours while you digest.
 Take a nap.
+-
 Dream of Pizza and Cheezy Bread.
